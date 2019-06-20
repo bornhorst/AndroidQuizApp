@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_greeting">Welcome to the Multiple Choice Quiz!</string>
+    <string name="quiz_start_button">Start Quiz</string>
+    <string name="quiz_prompt">Choose a Quiz from the List</string>
+    <string name="ask_username">User Name</string>
+    <string name="user_name">""</string>
+
+    <string name="cheat_text">"Are you sure you want to cheat?"</string>
+
+    <string-array name="quiz_types">
+        <item>Game of Thrones Quiz</item>
+        <item>Landmark Quiz</item>
+    </string-array>
+
+    <string name="quiz_button">Next</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="final_button">Take Another Quiz</string>
+
+</resources>

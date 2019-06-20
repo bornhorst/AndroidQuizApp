@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pdx.quizapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/funny_cat"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/funny_cat"
+        android:supportsRtl="true">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".QuizActivity1"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity2"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity3"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity4"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity5"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity6"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity7"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity8"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".FinalActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CheatActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/QuizTheme"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pdx.quizapp.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

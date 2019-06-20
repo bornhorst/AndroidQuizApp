@@ -1,0 +1,53 @@
+{
+	"quiz": {
+		"id": 3,
+		"title": "Quiz Template",
+		"wraparound": false,
+		"quizitems": [{
+			"id": 1,
+			"questiontext": "question 1 text",
+			"answertext": "question 1 answer - should match one of the choices",
+			"choices": ["q1_choice 1",
+			"q1_choice 2",
+			"q1_choice 3",
+			"q1_choice 4"]
+		},
+		{
+			"id": 2,
+			"questiontext": "question 2 text",
+			"answertext": "question 2 answer - should match one of the choices",
+			"choices": ["q2_choice 1",
+			"q2_choice 2",
+			"q2_choice 3",
+			"q2_choice 4"]
+		},
+		{
+			"id": 3,
+			"questiontext": "question 3 text",
+			"answertext": "question 3 answer- should match one of the choices",
+			"choices": ["q3_choice 1",
+			"q3_choice 2",
+			"q3_choice 3",
+			"q3_choice 4"]
+		},
+		{
+			"id": 4,
+			"questiontext": "question 4 text",
+			"answertext": "question 4 answer- should match one of the choices",
+			"choices": ["q4_choice 1",
+			"q4_choice 2",
+			"q4_choice 3",
+			"q4_choice 4"]
+		},
+		{
+			"id": 5,
+			"questiontext": "What is the tallest building in the United States?",
+			"answertext": "One World Trace Center, New York City, NY",
+			"choices": ["Trump International Hotel and Tower, Chicago IL",
+			"The Wilshire Grand Center, Los Angeles, CA",
+			"JP Morgan Chase Tower, Houston, TX",
+			"One World Trace Center, New York City, NY"]
+		}]
+	}
+	
+}

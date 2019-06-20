@@ -1,0 +1,57 @@
+{ "question1": "Which of the following is not a family in Game of Thrones?",
+  "answer1": "Mortenson",
+  "choices1":
+  [ {"choice":"Stark"},
+    {"choice":"Tyrell"},
+    {"choice":"Mortenson"},
+    {"choice":"Bolton"}],
+  "question2": "Who said: 'You know nothing, Jon Snow'?",
+  "answer2": "Ygritte",
+  "choices2":
+  [ {"choice": "Arya Stark"},
+    {"choice": "Daenerys Targaryen"},
+    {"choice": "Ygritte"},
+    {"choice": "Sansa Stark"}],
+  "question3": "Who said this line: 'Give my regards to the Night's Watch. I'm sure it will be thrilling. And if it's not, it's only for life.'",
+  "answer3": "Jamie Lannister",
+  "choices3":
+  [ {"choice": "Jamie Lannister"},
+    {"choice": "Jonah Mormont"},
+    {"choice": "Samwell Tarly"},
+    {"choice": "Edison Tollett"}],
+  "question4": "What is the name of the ancestral Stark sword that Tywin Lannister oversees the reforging of in the first episode of season 3?",
+  "answer4": "Ice",
+  "choices4":
+   [ {"choice": "Needle"},
+     {"choice": "Drogo"},
+     {"choice": "Ice"},
+     {"choice": "FireBlade"}],
+  "question5": "What is Sandor Clegane's nickname?",
+  "answer5": "The Hound",
+  "choices5":
+  [ {"choice": "The Hound"},
+    {"choice": "The Kingslayer"},
+    {"choice": "The Mountain"},
+    {"choice": "The Mad King"}],
+  "question6": "Who said this line: 'War was easier than daughters.'?",
+  "answer6": "Eddard Stark",
+  "choices6":
+  [ {"choice": "Tywin Lannister"},
+    {"choice": "Lord Varys"},
+    {"choice": "Cersei Lannister"},
+    {"choice": "Eddard Stark"}],
+  "question7": "Where did Petyr Baelish grow up as a foster?",
+  "answer7": "Riverrun",
+  "choices7":
+  [ {"choice": "Iron Islands"},
+    {"choice": "Riverrun"},
+    {"choice": "The North"},
+    {"choice": "Stormlands"}],
+  "question8": "What is the profession of Daario Naharis?",
+  "answer8": "Tyroshi sellsword",
+  "choices8":
+  [ {"choice": "Leader of the Unsullied"},
+    {"choice": "Member of the Night's Watch"},
+    {"choice": "Tyroshi sellsword"},
+    {"choice": "Poison connoisseur"}]
+}
